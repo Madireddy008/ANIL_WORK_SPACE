@@ -1,7 +1,7 @@
 #Hello world program
 print("\nHello World")
 '''
-nForDevops/helloWorld.py
+PythonForDevops/helloWorld.py
 Hello 
 World
 '''
