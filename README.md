@@ -1,2 +1,17 @@
 # anilWorkSpace
-This is for Devops Practice
+This is for below Practice
+
+ANIL_WORK_SPACE
+Madireddy008/ANIL_WORK_SPACE
+JENKINS
+Madireddy008/JENKINS
+GIT
+Madireddy008/GIT
+AWS
+Madireddy008/AWS
+TERRAFORM
+Madireddy008/TERRAFORM
+KUBERNETES
+Madireddy008/KUBERNETES
+DOCKER
+Madireddy008/DOCKER
